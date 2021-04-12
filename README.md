@@ -9,20 +9,20 @@ The linear regression model trained using this data set estimates the score acco
 
 ## Model Performance Evaluation and Model Output Results of Test Data:
 
-  Actual Value   Predicted Value
-0      20            16.884145
-1      27            33.732261
-2      69            75.357018
-3      30            26.794801
-4      62            60.491033
+ &emsp; Actual Value &emsp;&emsp; Predicted Value  <br>
+0   &emsp;   20     &emsp;&emsp;&emsp;&emsp;    &emsp;       16.884145  <br>
+1   &emsp;   27     &emsp;&emsp;&emsp;&emsp;    &emsp;       33.732261  <br>
+2   &emsp;   69     &emsp;&emsp;&emsp;&emsp;    &emsp;       75.357018  <br>
+3   &emsp;   30     &emsp;&emsp;&emsp;&emsp;    &emsp;       26.794801  <br>
+4   &emsp;   62     &emsp;&emsp;&emsp;&emsp;    &emsp;       60.491033  <br>
 
-Mean Absolute Error = 4.183859899002975
-Mean Square Error = 21.5987693072174
-RMSE = 4.6474476121003665
+Mean Absolute Error = 4.183859899002975 <br>
+Mean Square Error = 21.5987693072174 <br>
+RMSE = 4.6474476121003665 <br>
 
-Model Generated Predictions for Values Not Included in Test Data:
-[0.5] => 6.9734882817558015
-[1.] => 11.92881652207692
-[4.2] => 43.64291726013208
-[6.7] => 68.41955846173767
-[10.] => 101.12472484785705
+### Model Generated Predictions for Values Not Included in Test Data: 
+[0.5] => 6.9734882817558015 <br>
+[1.] => 11.92881652207692 <br>
+[4.2] => 43.64291726013208 <br>
+[6.7] => 68.41955846173767 <br>
+[10.] => 101.12472484785705 <br>

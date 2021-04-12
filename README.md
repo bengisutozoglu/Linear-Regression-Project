@@ -5,7 +5,9 @@ The data set named student scores used in the application includes the percentag
 
 The linear regression model trained using this data set estimates the score according to the given hour information.
 
+
 ![image](https://user-images.githubusercontent.com/62267463/114474354-b6743680-9bfe-11eb-8c3f-58f9042a0173.png)
+
 
 ## Model Performance Evaluation and Model Output Results of Test Data:
 

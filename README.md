@@ -18,9 +18,9 @@ The linear regression model trained using this data set estimates the score acco
 3   &emsp;   30     &emsp;&emsp;&emsp;&emsp;    &emsp;       26.794801  <br>
 4   &emsp;   62     &emsp;&emsp;&emsp;&emsp;    &emsp;       60.491033  <br>
 
-Mean Absolute Error = 4.183859899002975 <br>
-Mean Square Error = 21.5987693072174 <br>
-RMSE = 4.6474476121003665 <br>
+#### Mean Absolute Error = 4.183859899002975 <br>
+#### Mean Square Error = 21.5987693072174 <br>
+#### RMSE = 4.6474476121003665 <br>
 
 ### Model Generated Predictions for Values Not Included in Test Data: 
 [0.5] => 6.9734882817558015 <br>
